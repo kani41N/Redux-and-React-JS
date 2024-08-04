@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import CustomerView from './CustomerView';
 import { AddCustomer as AddCustomerAction } from './slices/customerSlices';
 import { useDispatch } from 'react-redux';
 
